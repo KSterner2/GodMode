@@ -67,6 +67,7 @@ Yes and no:
 - **Keyboard Shortcuts**:
 
   - Use `Cmd+Shift+G` for quick open and `Cmd+Enter` to submit.
+      -WARNING: Some Shortcuts may differ, so be sure to check out what your shortcut is.  
   - Customize these shortcuts (thanks [@davej](https://github.com/smol-ai/GodMode/pull/85)!):
     - Quick Open
       - ![image](https://github.com/davej/smol-ai-menubar/assets/6764957/3a6d0a16-7f54-43e5-9060-ec7b2486d32d)
@@ -124,7 +125,7 @@ You can:
 
 When you first run the app:
 
-1. log into your Google account (once you log into your google account for chatgpt, you'l also be logged in to Bard, Perplexity, Anthropic, etc). logging into Google via Anthropic Claude first seems to be the most reliable right now while we figure it out
+1. log into your Google account (once you log into your google account for chatgpt, you'll also be logged in to Bard, Perplexity, Anthropic, etc). logging into Google via Anthropic Claude first seems to be the most reliable right now while we figure it out
 2. For Bing, after you log in to your Microsoft account, you'll need to refresh to get into the Bing Chat screen. It's a little finnicky at first try but it works.
 
 Optional: You can have GodMode start up automatically on login - just go to Settings and toggle it on. Thanks [@leeknowlton](https://github.com/smol-ai/GodMode/pull/188)!
